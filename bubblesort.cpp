@@ -55,6 +55,7 @@ void BubbleSort(){
 }
 }
 int main()
-{
+{ 
+    cout << endl;
     inputData();
 }
